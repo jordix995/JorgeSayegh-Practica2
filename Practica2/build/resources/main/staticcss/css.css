@@ -1,0 +1,19 @@
+aside{
+    padding: 20px;
+    left: 0;
+}
+section{
+text-align: center;
+    font: 18px sans-serif;
+}
+img{
+    width: 20%;
+    height: 20%;
+}
+form{
+    margin-left: 20%;
+    background-color: #9fc9cb;
+    width: 60%;
+    padding: 20px;
+    border-radius: 10px;
+}
